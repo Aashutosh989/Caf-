@@ -1,0 +1,22 @@
+body{
+    background: url('img/3.jpg');
+    background-size: cover;
+    margin-right: 25rem;
+}
+
+H1{
+    font-size: 3em;
+}
+
+H2{
+    font-size: 2rem;
+}
+
+a{
+    text-decoration: none;
+}
+
+img{
+    height: 50px;
+    width: 50px;
+}
