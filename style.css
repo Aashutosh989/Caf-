@@ -41,6 +41,7 @@ h1{
 }
 
 .dropbtn{
+    font-family: IMFellFrenchCanon;
     background-color: #04aa6d00;
     color: rgb(0, 0, 0);
     padding: 16px;
